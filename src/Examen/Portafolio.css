@@ -1,0 +1,7 @@
+.Carta {
+    text-align: center;
+    background-color: gray;
+    margin: 10px;
+    width: 100vh;
+    min-height: 50vh;
+}
